@@ -1,0 +1,3944 @@
+{
+  "meta": {
+    "institution": "PROLIFT TECHNICAL TRAINING CENTRE L.L.C",
+    "khdaPermit": "634197",
+    "dedLicense": "1636409",
+    "hfzaReg": "333618",
+    "totalCourses": 229,
+    "divisions": [
+      {
+        "id": "lifting",
+        "label": "Lifting & Rigging",
+        "shortLabel": "Lifting & Rigging"
+      },
+      {
+        "id": "scaffolding",
+        "label": "Scaffolding & Height",
+        "shortLabel": "Scaffolding & Height"
+      },
+      {
+        "id": "machinery",
+        "label": "Heavy Equipment & Machinery",
+        "shortLabel": "Machinery & Plant"
+      },
+      {
+        "id": "safety",
+        "label": "General Technical Safety",
+        "shortLabel": "Technical Safety"
+      }
+    ],
+    "roles": [
+      {
+        "id": "operator",
+        "label": "Operator / Technician"
+      },
+      {
+        "id": "supervisor",
+        "label": "Supervisor / Officer"
+      },
+      {
+        "id": "inspector",
+        "label": "Inspector"
+      },
+      {
+        "id": "awareness",
+        "label": "Safety & Awareness"
+      }
+    ]
+  },
+  "courses": [
+    {
+      "id": 0,
+      "itemNo": 1,
+      "slug": "authorized-gas-tester-training",
+      "title": "Authorized Gas Tester Training",
+      "category": "safety",
+      "role": "operator",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Atmospheric hazard detection, entry permit compliance, respiratory protection, and standby rescue duties for Authorized Gas Tester Training.",
+      "audience": "Confined Space Entrants, Watchers & Gas Testers"
+    },
+    {
+      "id": 1,
+      "itemNo": 2,
+      "slug": "banksman-safety-training",
+      "title": "Banksman Safety Training",
+      "category": "lifting",
+      "role": "operator",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "flagman signaler marshaller",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hand and radio signaling, blind-spot management, vehicle marshaling, and safe exclusion zone control for Banksman Safety Training.",
+      "audience": "Banksmen, Flagmen & Site Signalers"
+    },
+    {
+      "id": 2,
+      "itemNo": 3,
+      "slug": "basic-first-aid-training",
+      "title": "Basic First Aid Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Immediate emergency response, casualty assessment, life-saving intervention, and site incident protocols for Basic First Aid Training.",
+      "audience": "First Responders & Site Personnel"
+    },
+    {
+      "id": 3,
+      "itemNo": 4,
+      "slug": "basic-food-hygiene-training",
+      "title": "Basic Food Hygiene Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Food safety hygiene standards, contamination prevention, temperature control, and critical control point monitoring for Basic Food Hygiene Training.",
+      "audience": "Catering, Hospitality & Food Handling Staff"
+    },
+    {
+      "id": 4,
+      "itemNo": 5,
+      "slug": "basic-hazard-identification-risk-assessment-training",
+      "title": "Basic Hazard Identification & Risk Assessment Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Basic Hazard Identification & Risk Assessment Training.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 5,
+      "itemNo": 6,
+      "slug": "basic-life-support-training",
+      "title": "Basic Life Support Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Immediate emergency response, casualty assessment, life-saving intervention, and site incident protocols for Basic Life Support Training.",
+      "audience": "First Responders & Site Personnel"
+    },
+    {
+      "id": 6,
+      "itemNo": 7,
+      "slug": "basic-scaffolding-safety-techniques",
+      "title": "Basic Scaffolding Safety & Techniques",
+      "category": "scaffolding",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Fall protection hierarchy, full-body harness inspection, anchor point selection, and safe assembly/access under Basic Scaffolding Safety & Techniques.",
+      "audience": "Scaffolders & Elevated Work Technicians"
+    },
+    {
+      "id": 7,
+      "itemNo": 8,
+      "slug": "behavior-based-safety",
+      "title": "Behavior Based Safety",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Behavior Based Safety.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 8,
+      "itemNo": 9,
+      "slug": "breathing-apparatus-safety-training",
+      "title": "Breathing Apparatus Safety Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Atmospheric hazard detection, entry permit compliance, respiratory protection, and standby rescue duties for Breathing Apparatus Safety Training.",
+      "audience": "Confined Space Entrants, Watchers & Gas Testers"
+    },
+    {
+      "id": 9,
+      "itemNo": 10,
+      "slug": "cargo-handling-transportation",
+      "title": "Cargo handling & transportation",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Cargo handling & transportation.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 10,
+      "itemNo": 11,
+      "slug": "chemical-handling-safety-training",
+      "title": "Chemical handling safety Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Safe handling, SDS interpretation, PPE selection, storage segregation, and spill containment for Chemical handling safety Training.",
+      "audience": "Chemical Handlers, Storekeepers & HSE Staff"
+    },
+    {
+      "id": 11,
+      "itemNo": 12,
+      "slug": "confined-space-entry-training",
+      "title": "Confined Space Entry Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "gas tester hole watcher scba rescue",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Atmospheric hazard detection, entry permit compliance, respiratory protection, and standby rescue duties for Confined Space Entry Training.",
+      "audience": "Confined Space Entrants, Watchers & Gas Testers"
+    },
+    {
+      "id": 12,
+      "itemNo": 13,
+      "slug": "confined-space-gas-tester-training",
+      "title": "Confined Space Gas Tester Training",
+      "category": "safety",
+      "role": "operator",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "gas tester hole watcher scba rescue",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Atmospheric hazard detection, entry permit compliance, respiratory protection, and standby rescue duties for Confined Space Gas Tester Training.",
+      "audience": "Confined Space Entrants, Watchers & Gas Testers"
+    },
+    {
+      "id": 13,
+      "itemNo": 14,
+      "slug": "confined-space-supervisor-training",
+      "title": "Confined Space Supervisor Training",
+      "category": "safety",
+      "role": "supervisor",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "gas tester hole watcher scba rescue",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Atmospheric hazard detection, entry permit compliance, respiratory protection, and standby rescue duties for Confined Space Supervisor Training.",
+      "audience": "Confined Space Entrants, Watchers & Gas Testers"
+    },
+    {
+      "id": 14,
+      "itemNo": 15,
+      "slug": "construction-site-general-safety-training",
+      "title": "Construction Site General Safety Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Construction Site General Safety Training.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 15,
+      "itemNo": 16,
+      "slug": "construction-site-hoist-safety-awareness-training",
+      "title": "Construction Site Hoist Safety Awareness Training",
+      "category": "lifting",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Safe operational controls, load chart interpretation, pre-start mechanical checks, and hazard mitigation for Construction Site Hoist Safety Awareness Training.",
+      "audience": "Crane & Hoist Operators"
+    },
+    {
+      "id": 16,
+      "itemNo": 17,
+      "slug": "control-of-substances-hazardous-to-health-coshh",
+      "title": "Control of Substances Hazardous to Health (COSHH)",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "hazardous substances chemical msds sds",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Safe handling, SDS interpretation, PPE selection, storage segregation, and spill containment for Control of Substances Hazardous to Health (COSHH).",
+      "audience": "Chemical Handlers, Storekeepers & HSE Staff"
+    },
+    {
+      "id": 17,
+      "itemNo": 19,
+      "slug": "crane-and-sling-safety-awareness-training",
+      "title": "Crane and Sling Safety Awareness Training",
+      "category": "lifting",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Load weight estimation, sling angle calculations, pre-use gear inspection, and safe hitching techniques for Crane and Sling Safety Awareness Training.",
+      "audience": "Riggers, Slingers & Lifting Crew"
+    },
+    {
+      "id": 18,
+      "itemNo": 20,
+      "slug": "crane-safety-awareness-training",
+      "title": "Crane Safety Awareness Training",
+      "category": "lifting",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Safe operational controls, load chart interpretation, pre-start mechanical checks, and hazard mitigation for Crane Safety Awareness Training.",
+      "audience": "Crane & Hoist Operators"
+    },
+    {
+      "id": 19,
+      "itemNo": 21,
+      "slug": "crane-supervisor-safety-training",
+      "title": "Crane Supervisor Safety Training",
+      "category": "lifting",
+      "role": "supervisor",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Supervisory certification covering lift plan verification, rigging calculations, communication protocols, and statutory compliance for Crane Supervisor Safety Training.",
+      "audience": "Lifting Supervisors, Engineers & Site Foremen"
+    },
+    {
+      "id": 20,
+      "itemNo": 22,
+      "slug": "cultural-awareness-training-cat",
+      "title": "Cultural awareness training ( CAT)",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Cultural awareness training ( CAT).",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 21,
+      "itemNo": 23,
+      "slug": "dangerous-goods-handling-safety-training",
+      "title": "Dangerous Goods Handling Safety Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Safe handling, SDS interpretation, PPE selection, storage segregation, and spill containment for Dangerous Goods Handling Safety Training.",
+      "audience": "Chemical Handlers, Storekeepers & HSE Staff"
+    },
+    {
+      "id": 22,
+      "itemNo": 24,
+      "slug": "defensive-driving-safety-training",
+      "title": "Defensive Driving - Safety Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Defensive Driving - Safety Training.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 23,
+      "itemNo": 25,
+      "slug": "disability-awareness-with-the-myth-of-sign-language-training-dat",
+      "title": "Disability awareness with the myth of sign language training (DAT)",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Disability awareness with the myth of sign language training (DAT).",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 24,
+      "itemNo": 26,
+      "slug": "earth-moving-machinery-safety-awareness-training",
+      "title": "Earth Moving Machinery Safety Awareness Training",
+      "category": "machinery",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Heavy plant pre-start checks, trench/slope stability, blind-spot awareness, and safe earthworks execution for Earth Moving Machinery Safety Awareness Training.",
+      "audience": "Heavy Plant & Earthmoving Operators"
+    },
+    {
+      "id": 25,
+      "itemNo": 27,
+      "slug": "electrical-safety-awareness-training",
+      "title": "Electrical Safety Awareness Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Electrical Safety Awareness Training.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 26,
+      "itemNo": 28,
+      "slug": "electrical-safety-training",
+      "title": "Electrical Safety Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Electrical Safety Training.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 27,
+      "itemNo": 29,
+      "slug": "electrician-safety-training",
+      "title": "Electrician Safety Training",
+      "category": "safety",
+      "role": "operator",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Electrician Safety Training.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 28,
+      "itemNo": 30,
+      "slug": "emergency-action-plan",
+      "title": "Emergency Action Plan",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Immediate emergency response, casualty assessment, life-saving intervention, and site incident protocols for Emergency Action Plan.",
+      "audience": "First Responders & Site Personnel"
+    },
+    {
+      "id": 29,
+      "itemNo": 32,
+      "slug": "emergency-first-aid-at-work",
+      "title": "Emergency First Aid at Work",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Immediate emergency response, casualty assessment, life-saving intervention, and site incident protocols for Emergency First Aid at Work.",
+      "audience": "First Responders & Site Personnel"
+    },
+    {
+      "id": 30,
+      "itemNo": 42,
+      "slug": "emergency-preparedness-response-training",
+      "title": "Emergency Preparedness & Response Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Immediate emergency response, casualty assessment, life-saving intervention, and site incident protocols for Emergency Preparedness & Response Training.",
+      "audience": "First Responders & Site Personnel"
+    },
+    {
+      "id": 31,
+      "itemNo": 43,
+      "slug": "emergency-rescue-kit-training",
+      "title": "Emergency Rescue Kit Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Immediate emergency response, casualty assessment, life-saving intervention, and site incident protocols for Emergency Rescue Kit Training.",
+      "audience": "First Responders & Site Personnel"
+    },
+    {
+      "id": 32,
+      "itemNo": 44,
+      "slug": "environmental-awareness",
+      "title": "Environmental Awareness",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Environmental Awareness.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 33,
+      "itemNo": 45,
+      "slug": "ergonomics-safety-training",
+      "title": "Ergonomics safety training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Ergonomics safety training.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 34,
+      "itemNo": 46,
+      "slug": "excavation-safety-training",
+      "title": "Excavation Safety Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Excavation Safety Training.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 35,
+      "itemNo": 47,
+      "slug": "fall-protection-safety-training",
+      "title": "Fall Protection Safety Training",
+      "category": "scaffolding",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Fall protection hierarchy, full-body harness inspection, anchor point selection, and safe assembly/access under Fall Protection Safety Training.",
+      "audience": "Scaffolders & Elevated Work Technicians"
+    },
+    {
+      "id": 36,
+      "itemNo": 48,
+      "slug": "fire-fighting-training",
+      "title": "Fire Fighting Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Fire prevention, extinguisher selection, hot work permit controls, and emergency evacuation procedures for Fire Fighting Training.",
+      "audience": "Fire Wardens, Welders & Hot Work Personnel"
+    },
+    {
+      "id": 37,
+      "itemNo": 49,
+      "slug": "fire-marshall-training",
+      "title": "Fire Marshall Training",
+      "category": "safety",
+      "role": "operator",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Fire prevention, extinguisher selection, hot work permit controls, and emergency evacuation procedures for Fire Marshall Training.",
+      "audience": "Fire Wardens, Welders & Hot Work Personnel"
+    },
+    {
+      "id": 38,
+      "itemNo": 50,
+      "slug": "fire-mock-drill",
+      "title": "Fire Mock Drill",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Fire prevention, extinguisher selection, hot work permit controls, and emergency evacuation procedures for Fire Mock Drill.",
+      "audience": "Fire Wardens, Welders & Hot Work Personnel"
+    },
+    {
+      "id": 39,
+      "itemNo": 53,
+      "slug": "fire-watch-safety-training-hot-works",
+      "title": "Fire Watch Safety Training (Hot works)",
+      "category": "safety",
+      "role": "operator",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "welding cutting fire watch",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Fire prevention, extinguisher selection, hot work permit controls, and emergency evacuation procedures for Fire Watch Safety Training (Hot works).",
+      "audience": "Fire Wardens, Welders & Hot Work Personnel"
+    },
+    {
+      "id": 40,
+      "itemNo": 54,
+      "slug": "fire-watcher-safety-training",
+      "title": "Fire Watcher Safety Training",
+      "category": "safety",
+      "role": "operator",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Fire prevention, extinguisher selection, hot work permit controls, and emergency evacuation procedures for Fire Watcher Safety Training.",
+      "audience": "Fire Wardens, Welders & Hot Work Personnel"
+    },
+    {
+      "id": 41,
+      "itemNo": 58,
+      "slug": "first-aid-cpr-aed-training",
+      "title": "First AID-CPR-AED Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "first aid basic life support aed first aid basic life support cpr",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Immediate emergency response, casualty assessment, life-saving intervention, and site incident protocols for First AID-CPR-AED Training.",
+      "audience": "First Responders & Site Personnel"
+    },
+    {
+      "id": 42,
+      "itemNo": 59,
+      "slug": "flagman-safety-training",
+      "title": "Flagman Safety Training",
+      "category": "lifting",
+      "role": "operator",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "banksman signaler traffic",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hand and radio signaling, blind-spot management, vehicle marshaling, and safe exclusion zone control for Flagman Safety Training.",
+      "audience": "Banksmen, Flagmen & Site Signalers"
+    },
+    {
+      "id": 43,
+      "itemNo": 60,
+      "slug": "food-safety-hazard-analysis-critical-control-points-haccp",
+      "title": "Food Safety - Hazard Analysis & Critical Control Points (HACCP)",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "food safety hygiene",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Food safety hygiene standards, contamination prevention, temperature control, and critical control point monitoring for Food Safety - Hazard Analysis & Critical Control Points (HACCP).",
+      "audience": "Catering, Hospitality & Food Handling Staff"
+    },
+    {
+      "id": 44,
+      "itemNo": 61,
+      "slug": "forklift-operations-and-driving-safety-awareness",
+      "title": "Forklift Operations and Driving Safety Awareness",
+      "category": "machinery",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "flt counterbalance reach truck stacker pallet",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-shift inspection, load center stability, narrow-aisle maneuvering, and pedestrian safety protocols for Forklift Operations and Driving Safety Awareness.",
+      "audience": "Warehouse, Logistics & Material Handlers"
+    },
+    {
+      "id": 45,
+      "itemNo": 62,
+      "slug": "forklift-operator-safety-awareness-training",
+      "title": "Forklift Operator Safety Awareness Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "flt counterbalance reach truck stacker pallet",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-shift inspection, load center stability, narrow-aisle maneuvering, and pedestrian safety protocols for Forklift Operator Safety Awareness Training.",
+      "audience": "Warehouse, Logistics & Material Handlers"
+    },
+    {
+      "id": 46,
+      "itemNo": 63,
+      "slug": "general-construction-safety",
+      "title": "General construction safety",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under General construction safety.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 47,
+      "itemNo": 64,
+      "slug": "general-health-and-safety-awareness-training",
+      "title": "General Health and Safety Awareness Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under General Health and Safety Awareness Training.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 48,
+      "itemNo": 65,
+      "slug": "general-safety-training",
+      "title": "General Safety Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under General Safety Training.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 49,
+      "itemNo": 66,
+      "slug": "general-workplace-safety-training",
+      "title": "General Workplace Safety Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under General Workplace Safety Training.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 50,
+      "itemNo": 67,
+      "slug": "h2s-safety-awareness-training",
+      "title": "H2S Safety Awareness Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "hydrogen sulphide gas",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Atmospheric hazard detection, entry permit compliance, respiratory protection, and standby rescue duties for H2S Safety Awareness Training.",
+      "audience": "Confined Space Entrants, Watchers & Gas Testers"
+    },
+    {
+      "id": 51,
+      "itemNo": 68,
+      "slug": "hazard-identification-and-risk-assessment-training",
+      "title": "Hazard Identification and Risk Assessment Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Hazard Identification and Risk Assessment Training.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 52,
+      "itemNo": 69,
+      "slug": "hazardous-material-handling-hazmat-safety-training",
+      "title": "Hazardous Material Handling (HAZMAT) Safety Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "hazardous material dangerous goods chemical",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Safe handling, SDS interpretation, PPE selection, storage segregation, and spill containment for Hazardous Material Handling (HAZMAT) Safety Training.",
+      "audience": "Chemical Handlers, Storekeepers & HSE Staff"
+    },
+    {
+      "id": 53,
+      "itemNo": 70,
+      "slug": "hazmat-chemical-handling-training",
+      "title": "HAZMAT(Chemical) handling Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "hazardous material dangerous goods chemical",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Safe handling, SDS interpretation, PPE selection, storage segregation, and spill containment for HAZMAT(Chemical) handling Training.",
+      "audience": "Chemical Handlers, Storekeepers & HSE Staff"
+    },
+    {
+      "id": 54,
+      "itemNo": 75,
+      "slug": "health-and-safety-training-for-supervisors",
+      "title": "Health and Safety Training for Supervisors",
+      "category": "safety",
+      "role": "supervisor",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Health and Safety Training for Supervisors.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 55,
+      "itemNo": 76,
+      "slug": "health-safety-environment-awareness-training",
+      "title": "Health, Safety & Environment Awareness Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Health, Safety & Environment Awareness Training.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 56,
+      "itemNo": 77,
+      "slug": "heat-stress-safety-training",
+      "title": "Heat Stress Safety Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Heat Stress Safety Training.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 57,
+      "itemNo": 78,
+      "slug": "hole-watcher",
+      "title": "Hole watcher",
+      "category": "safety",
+      "role": "operator",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Atmospheric hazard detection, entry permit compliance, respiratory protection, and standby rescue duties for Hole watcher.",
+      "audience": "Confined Space Entrants, Watchers & Gas Testers"
+    },
+    {
+      "id": 58,
+      "itemNo": 79,
+      "slug": "hot-work-supervisor",
+      "title": "Hot Work Supervisor",
+      "category": "safety",
+      "role": "supervisor",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "welding cutting fire watch",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Fire prevention, extinguisher selection, hot work permit controls, and emergency evacuation procedures for Hot Work Supervisor.",
+      "audience": "Fire Wardens, Welders & Hot Work Personnel"
+    },
+    {
+      "id": 59,
+      "itemNo": 80,
+      "slug": "hot-works-safety-training",
+      "title": "Hot Works Safety Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "welding cutting fire watch",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Fire prevention, extinguisher selection, hot work permit controls, and emergency evacuation procedures for Hot Works Safety Training.",
+      "audience": "Fire Wardens, Welders & Hot Work Personnel"
+    },
+    {
+      "id": 60,
+      "itemNo": 81,
+      "slug": "housekeeping-awareness-training",
+      "title": "Housekeeping Awareness Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Housekeeping Awareness Training.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 61,
+      "itemNo": 82,
+      "slug": "hydro-test-safety-awareness-training",
+      "title": "Hydro test Safety Awareness Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Hydro test Safety Awareness Training.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 62,
+      "itemNo": 83,
+      "slug": "hydrogen-sulphide-safety-training",
+      "title": "Hydrogen Sulphide Safety Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Atmospheric hazard detection, entry permit compliance, respiratory protection, and standby rescue duties for Hydrogen Sulphide Safety Training.",
+      "audience": "Confined Space Entrants, Watchers & Gas Testers"
+    },
+    {
+      "id": 63,
+      "itemNo": 84,
+      "slug": "industrial-hygiene",
+      "title": "Industrial hygiene",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Industrial hygiene.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 64,
+      "itemNo": 85,
+      "slug": "introduction-to-behavior-based-safety",
+      "title": "Introduction to behavior based safety",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Introduction to behavior based safety.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 65,
+      "itemNo": 86,
+      "slug": "job-hazard-analysis-training",
+      "title": "Job Hazard Analysis Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Job Hazard Analysis Training.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 66,
+      "itemNo": 87,
+      "slug": "ladder-safety-training",
+      "title": "Ladder Safety Training",
+      "category": "scaffolding",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Safe selection, pre-use inspection, 4-to-1 setup angle, and three-point contact practices for Ladder Safety Training.",
+      "audience": "Field Technicians & Site Inspectors"
+    },
+    {
+      "id": 67,
+      "itemNo": 88,
+      "slug": "lifting-operation-safety",
+      "title": "Lifting operation safety",
+      "category": "lifting",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Safe operational controls, load chart interpretation, pre-start mechanical checks, and hazard mitigation for Lifting operation safety.",
+      "audience": "Crane & Hoist Operators"
+    },
+    {
+      "id": 68,
+      "itemNo": 89,
+      "slug": "lifting-supervisor-safety-training",
+      "title": "Lifting Supervisor Safety Training",
+      "category": "lifting",
+      "role": "supervisor",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Supervisory certification covering lift plan verification, rigging calculations, communication protocols, and statutory compliance for Lifting Supervisor Safety Training.",
+      "audience": "Lifting Supervisors, Engineers & Site Foremen"
+    },
+    {
+      "id": 69,
+      "itemNo": 90,
+      "slug": "lock-out-tag-out-loto-safety-training",
+      "title": "Lock-out & Tag-out (LOTO) Safety Training",
+      "category": "safety",
+      "role": "inspector",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "lockout tagout isolation electrical",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Lock-out & Tag-out (LOTO) Safety Training.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 70,
+      "itemNo": 91,
+      "slug": "manual-handling-safety-training",
+      "title": "Manual Handling Safety Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Manual Handling Safety Training.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 71,
+      "itemNo": 92,
+      "slug": "manual-electric-winch-machine-safety-awareness-training",
+      "title": "Manual/Electric Winch Machine Safety Awareness Training",
+      "category": "lifting",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Safe operational controls, load chart interpretation, pre-start mechanical checks, and hazard mitigation for Manual/Electric Winch Machine Safety Awareness Training.",
+      "audience": "Crane & Hoist Operators"
+    },
+    {
+      "id": 72,
+      "itemNo": 93,
+      "slug": "material-handling-training",
+      "title": "Material Handling Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Material Handling Training.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 73,
+      "itemNo": 94,
+      "slug": "material-hoist-safety-awareness-training",
+      "title": "Material Hoist Safety Awareness Training",
+      "category": "lifting",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Safe operational controls, load chart interpretation, pre-start mechanical checks, and hazard mitigation for Material Hoist Safety Awareness Training.",
+      "audience": "Crane & Hoist Operators"
+    },
+    {
+      "id": 74,
+      "itemNo": 95,
+      "slug": "mobile-concrete-pump-safety-awareness-training",
+      "title": "Mobile Concrete Pump Safety Awareness Training",
+      "category": "machinery",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-operation safety checks, machine guarding, lockout/tagout (LOTO) awareness, and safe operating procedures for Mobile Concrete Pump Safety Awareness Training.",
+      "audience": "Equipment & Machine Operators"
+    },
+    {
+      "id": 75,
+      "itemNo": 96,
+      "slug": "mobile-crane-safety-awareness-training",
+      "title": "Mobile Crane Safety Awareness Training",
+      "category": "lifting",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "awareness",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Safe operational controls, load chart interpretation, pre-start mechanical checks, and hazard mitigation for Mobile Crane Safety Awareness Training.",
+      "audience": "Crane & Hoist Operators"
+    },
+    {
+      "id": 76,
+      "itemNo": 97,
+      "slug": "mobile-elevating-work-platform-mewp-safety-awareness-training",
+      "title": "Mobile Elevating Work Platform (MEWP) Safety Awareness Training",
+      "category": "machinery",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "mobile elevating work platform manlift aerial lift elevating mewp manlift",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Safe platform positioning, ground condition checks, outrigger deployment, emergency lowering, and fall restraint for Mobile Elevating Work Platform (MEWP) Safety Awareness Training.",
+      "audience": "MEWP Operators & Maintenance Technicians"
+    },
+    {
+      "id": 77,
+      "itemNo": 98,
+      "slug": "mobile-scaffolders-safety-awareness-training",
+      "title": "Mobile Scaffolders Safety Awareness Training",
+      "category": "scaffolding",
+      "role": "operator",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Fall protection hierarchy, full-body harness inspection, anchor point selection, and safe assembly/access under Mobile Scaffolders Safety Awareness Training.",
+      "audience": "Scaffolders & Elevated Work Technicians"
+    },
+    {
+      "id": 78,
+      "itemNo": 99,
+      "slug": "mobile-scaffolding-erection-dismantling-safety-awareness-training",
+      "title": "Mobile Scaffolding Erection & Dismantling Safety Awareness Training",
+      "category": "scaffolding",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Fall protection hierarchy, full-body harness inspection, anchor point selection, and safe assembly/access under Mobile Scaffolding Erection & Dismantling Safety Awareness Training.",
+      "audience": "Scaffolders & Elevated Work Technicians"
+    },
+    {
+      "id": 79,
+      "itemNo": 100,
+      "slug": "mobile-scaffolding-inspector-training",
+      "title": "Mobile Scaffolding Inspector Training",
+      "category": "scaffolding",
+      "role": "inspector",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Technical inspection criteria, Scafftag compliance, structural tie and load checks, and statutory reporting for Mobile Scaffolding Inspector Training.",
+      "audience": "Scaffolding Inspectors & HSE Officers"
+    },
+    {
+      "id": 80,
+      "itemNo": 101,
+      "slug": "mobile-scaffolding-safety-awareness-training",
+      "title": "Mobile Scaffolding Safety Awareness Training",
+      "category": "scaffolding",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Fall protection hierarchy, full-body harness inspection, anchor point selection, and safe assembly/access under Mobile Scaffolding Safety Awareness Training.",
+      "audience": "Scaffolders & Elevated Work Technicians"
+    },
+    {
+      "id": 81,
+      "itemNo": 102,
+      "slug": "msds-safety-training",
+      "title": "MSDS Safety Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "material safety data sheet sds chemical coshh",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Safe handling, SDS interpretation, PPE selection, storage segregation, and spill containment for MSDS Safety Training.",
+      "audience": "Chemical Handlers, Storekeepers & HSE Staff"
+    },
+    {
+      "id": 82,
+      "itemNo": 103,
+      "slug": "near-miss-incident-accident-reporting-safety-training",
+      "title": "Near Miss Incident & Accident Reporting - Safety Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Near Miss Incident & Accident Reporting - Safety Training.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 83,
+      "itemNo": 104,
+      "slug": "occupational-ergonomics-training",
+      "title": "Occupational Ergonomics Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "portable appliance testing electrical",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Occupational Ergonomics Training.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 84,
+      "itemNo": 105,
+      "slug": "office-safety-awareness",
+      "title": "Office Safety Awareness",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Office Safety Awareness.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 85,
+      "itemNo": 106,
+      "slug": "overhead-crane-safety-awareness-training",
+      "title": "Overhead Crane Safety Awareness Training",
+      "category": "lifting",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Safe operational controls, load chart interpretation, pre-start mechanical checks, and hazard mitigation for Overhead Crane Safety Awareness Training.",
+      "audience": "Crane & Hoist Operators"
+    },
+    {
+      "id": 86,
+      "itemNo": 108,
+      "slug": "paint-spill-safety-training",
+      "title": "Paint Spill Safety Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Safe handling, SDS interpretation, PPE selection, storage segregation, and spill containment for Paint Spill Safety Training.",
+      "audience": "Chemical Handlers, Storekeepers & HSE Staff"
+    },
+    {
+      "id": 87,
+      "itemNo": 109,
+      "slug": "pallet-trolley-safety-awareness-training",
+      "title": "Pallet trolley Safety Awareness Training",
+      "category": "machinery",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-shift inspection, load center stability, narrow-aisle maneuvering, and pedestrian safety protocols for Pallet trolley Safety Awareness Training.",
+      "audience": "Warehouse, Logistics & Material Handlers"
+    },
+    {
+      "id": 88,
+      "itemNo": 110,
+      "slug": "permit-to-work-safety-training",
+      "title": "Permit-To-Work Safety Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Permit-To-Work Safety Training.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 89,
+      "itemNo": 112,
+      "slug": "personal-protective-equipment-ppe-safety-training",
+      "title": "Personal Protective Equipment (PPE) Safety Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Personal Protective Equipment (PPE) Safety Training.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 90,
+      "itemNo": 113,
+      "slug": "pressure-vessel-safety-awareness-training",
+      "title": "Pressure Vessel Safety Awareness Training",
+      "category": "machinery",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "pressure vessel boiler",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-operation safety checks, machine guarding, lockout/tagout (LOTO) awareness, and safe operating procedures for Pressure Vessel Safety Awareness Training.",
+      "audience": "Equipment & Machine Operators"
+    },
+    {
+      "id": 91,
+      "itemNo": 114,
+      "slug": "placing-boom-safety-awareness-training",
+      "title": "Placing Boom Safety Awareness Training",
+      "category": "machinery",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-operation safety checks, machine guarding, lockout/tagout (LOTO) awareness, and safe operating procedures for Placing Boom Safety Awareness Training.",
+      "audience": "Equipment & Machine Operators"
+    },
+    {
+      "id": 92,
+      "itemNo": 115,
+      "slug": "plant-operator-safety",
+      "title": "Plant operator safety",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-operation safety checks, machine guarding, lockout/tagout (LOTO) awareness, and safe operating procedures for Plant operator safety.",
+      "audience": "Equipment & Machine Operators"
+    },
+    {
+      "id": 93,
+      "itemNo": 116,
+      "slug": "power-tools-and-hand-tools-safety-training",
+      "title": "Power Tools and Hand Tools - Safety Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Power Tools and Hand Tools - Safety Training.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 94,
+      "itemNo": 117,
+      "slug": "power-tools-operator-safety-training",
+      "title": "Power Tools Operator Safety Training",
+      "category": "safety",
+      "role": "operator",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Power Tools Operator Safety Training.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 95,
+      "itemNo": 118,
+      "slug": "power-tools-safety-training",
+      "title": "Power Tools Safety Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Power Tools Safety Training.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 96,
+      "itemNo": 120,
+      "slug": "rigger-safety-training",
+      "title": "Rigger Safety Training",
+      "category": "lifting",
+      "role": "operator",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Load weight estimation, sling angle calculations, pre-use gear inspection, and safe hitching techniques for Rigger Safety Training.",
+      "audience": "Riggers, Slingers & Lifting Crew"
+    },
+    {
+      "id": 97,
+      "itemNo": 121,
+      "slug": "rigging-and-slinging-training",
+      "title": "Rigging and Slinging Training",
+      "category": "lifting",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Load weight estimation, sling angle calculations, pre-use gear inspection, and safe hitching techniques for Rigging and Slinging Training.",
+      "audience": "Riggers, Slingers & Lifting Crew"
+    },
+    {
+      "id": 98,
+      "itemNo": 123,
+      "slug": "risk-assessment-and-hazard-identification",
+      "title": "Risk Assessment and Hazard Identification",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Risk Assessment and Hazard Identification.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 99,
+      "itemNo": 124,
+      "slug": "risk-assessment-training",
+      "title": "Risk Assessment Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Risk Assessment Training.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 100,
+      "itemNo": 125,
+      "slug": "road-safety-training",
+      "title": "Road Safety Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Road Safety Training.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 101,
+      "itemNo": 126,
+      "slug": "roadway-construction-safety",
+      "title": "Roadway Construction Safety",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Roadway Construction Safety.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 102,
+      "itemNo": 127,
+      "slug": "safe-chemical-handling",
+      "title": "Safe Chemical Handling",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Safe handling, SDS interpretation, PPE selection, storage segregation, and spill containment for Safe Chemical Handling.",
+      "audience": "Chemical Handlers, Storekeepers & HSE Staff"
+    },
+    {
+      "id": 103,
+      "itemNo": 128,
+      "slug": "safe-lifting-operation-safety-training",
+      "title": "Safe Lifting Operation Safety Training",
+      "category": "lifting",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Safe operational controls, load chart interpretation, pre-start mechanical checks, and hazard mitigation for Safe Lifting Operation Safety Training.",
+      "audience": "Crane & Hoist Operators"
+    },
+    {
+      "id": 104,
+      "itemNo": 130,
+      "slug": "safe-use-of-flame-torch-waterproofing",
+      "title": "Safe Use of Flame Torch (Waterproofing)",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "torch flame waterproofing",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Fire prevention, extinguisher selection, hot work permit controls, and emergency evacuation procedures for Safe Use of Flame Torch (Waterproofing).",
+      "audience": "Fire Wardens, Welders & Hot Work Personnel"
+    },
+    {
+      "id": 105,
+      "itemNo": 131,
+      "slug": "safe-use-of-scba-self-contained-breathing-apparatus",
+      "title": "Safe use of SCBA ( self- contained breathing apparatus )",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "self contained breathing apparatus",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Atmospheric hazard detection, entry permit compliance, respiratory protection, and standby rescue duties for Safe use of SCBA ( self- contained breathing apparatus ).",
+      "audience": "Confined Space Entrants, Watchers & Gas Testers"
+    },
+    {
+      "id": 106,
+      "itemNo": 132,
+      "slug": "safety-officer-safety-training",
+      "title": "Safety Officer Safety Training",
+      "category": "safety",
+      "role": "supervisor",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Safety Officer Safety Training.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 107,
+      "itemNo": 133,
+      "slug": "safety-supervisor-safety-training",
+      "title": "Safety Supervisor Safety Training",
+      "category": "safety",
+      "role": "supervisor",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Safety Supervisor Safety Training.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 108,
+      "itemNo": 135,
+      "slug": "scaffold-tag-inspector",
+      "title": "Scaffold tag inspector",
+      "category": "scaffolding",
+      "role": "inspector",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Technical inspection criteria, Scafftag compliance, structural tie and load checks, and statutory reporting for Scaffold tag inspector.",
+      "audience": "Scaffolding Inspectors & HSE Officers"
+    },
+    {
+      "id": 109,
+      "itemNo": 136,
+      "slug": "scaffolding-erection-and-dismantling-safety-awareness-training",
+      "title": "Scaffolding Erection and Dismantling Safety Awareness Training",
+      "category": "scaffolding",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Fall protection hierarchy, full-body harness inspection, anchor point selection, and safe assembly/access under Scaffolding Erection and Dismantling Safety Awareness Training.",
+      "audience": "Scaffolders & Elevated Work Technicians"
+    },
+    {
+      "id": 110,
+      "itemNo": 137,
+      "slug": "scaffolding-safety-awareness-training",
+      "title": "Scaffolding Safety Awareness Training",
+      "category": "scaffolding",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Fall protection hierarchy, full-body harness inspection, anchor point selection, and safe assembly/access under Scaffolding Safety Awareness Training.",
+      "audience": "Scaffolders & Elevated Work Technicians"
+    },
+    {
+      "id": 111,
+      "itemNo": 138,
+      "slug": "scaffolding-supervisor-safety-training",
+      "title": "Scaffolding Supervisor Safety Training",
+      "category": "scaffolding",
+      "role": "supervisor",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Leadership and supervisory control over erection/dismantling teams, stability verification, and permit sign-off for Scaffolding Supervisor Safety Training.",
+      "audience": "Scaffolding Supervisors & Foremen"
+    },
+    {
+      "id": 112,
+      "itemNo": 139,
+      "slug": "scaffolders-safety-awareness-training",
+      "title": "Scaffolders Safety Awareness Training",
+      "category": "scaffolding",
+      "role": "operator",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "scaffolder scaffolding",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Fall protection hierarchy, full-body harness inspection, anchor point selection, and safe assembly/access under Scaffolders Safety Awareness Training.",
+      "audience": "Scaffolders & Elevated Work Technicians"
+    },
+    {
+      "id": 113,
+      "itemNo": 140,
+      "slug": "site-equipment-inspection-training",
+      "title": "Site & Equipment Inspection Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Site & Equipment Inspection Training.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 114,
+      "itemNo": 141,
+      "slug": "slip-trip-and-fall-safety-awareness",
+      "title": "Slip, Trip and Fall Safety Awareness",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Slip, Trip and Fall Safety Awareness.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 115,
+      "itemNo": 142,
+      "slug": "spill-prevention-and-control",
+      "title": "Spill Prevention and Control",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Safe handling, SDS interpretation, PPE selection, storage segregation, and spill containment for Spill Prevention and Control.",
+      "audience": "Chemical Handlers, Storekeepers & HSE Staff"
+    },
+    {
+      "id": 116,
+      "itemNo": 143,
+      "slug": "supervisor-safety",
+      "title": "Supervisor Safety",
+      "category": "safety",
+      "role": "supervisor",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Supervisor Safety.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 117,
+      "itemNo": 144,
+      "slug": "telescopic-telehandler-safety-awareness-training",
+      "title": "Telescopic/Telehandler Safety Awareness Training",
+      "category": "machinery",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-shift inspection, load center stability, narrow-aisle maneuvering, and pedestrian safety protocols for Telescopic/Telehandler Safety Awareness Training.",
+      "audience": "Warehouse, Logistics & Material Handlers"
+    },
+    {
+      "id": 118,
+      "itemNo": 145,
+      "slug": "tower-crane-electrician-safety-awareness-training",
+      "title": "Tower Crane electrician Safety Awareness Training",
+      "category": "lifting",
+      "role": "operator",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Safe operational controls, load chart interpretation, pre-start mechanical checks, and hazard mitigation for Tower Crane electrician Safety Awareness Training.",
+      "audience": "Crane & Hoist Operators"
+    },
+    {
+      "id": 119,
+      "itemNo": 146,
+      "slug": "tower-crane-erection-dismantling-safety-training",
+      "title": "Tower Crane Erection & Dismantling Safety Training",
+      "category": "lifting",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Safe operational controls, load chart interpretation, pre-start mechanical checks, and hazard mitigation for Tower Crane Erection & Dismantling Safety Training.",
+      "audience": "Crane & Hoist Operators"
+    },
+    {
+      "id": 120,
+      "itemNo": 147,
+      "slug": "tripod-rescue-training",
+      "title": "Tripod Rescue Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Immediate emergency response, casualty assessment, life-saving intervention, and site incident protocols for Tripod Rescue Training.",
+      "audience": "First Responders & Site Personnel"
+    },
+    {
+      "id": 121,
+      "itemNo": 148,
+      "slug": "truck-safety-awareness-training",
+      "title": "Truck Safety Awareness Training",
+      "category": "machinery",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-operation safety checks, machine guarding, lockout/tagout (LOTO) awareness, and safe operating procedures for Truck Safety Awareness Training.",
+      "audience": "Equipment & Machine Operators"
+    },
+    {
+      "id": 122,
+      "itemNo": 149,
+      "slug": "warehouse-safety-training",
+      "title": "Warehouse safety training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Warehouse safety training.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 123,
+      "itemNo": 150,
+      "slug": "welder-safety-training",
+      "title": "Welder Safety Training",
+      "category": "safety",
+      "role": "operator",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Fire prevention, extinguisher selection, hot work permit controls, and emergency evacuation procedures for Welder Safety Training.",
+      "audience": "Fire Wardens, Welders & Hot Work Personnel"
+    },
+    {
+      "id": 124,
+      "itemNo": 151,
+      "slug": "welding-hazards-safety-training",
+      "title": "Welding Hazards & Safety Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Fire prevention, extinguisher selection, hot work permit controls, and emergency evacuation procedures for Welding Hazards & Safety Training.",
+      "audience": "Fire Wardens, Welders & Hot Work Personnel"
+    },
+    {
+      "id": 125,
+      "itemNo": 152,
+      "slug": "welding-safety-awareness-training",
+      "title": "Welding Safety Awareness Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Fire prevention, extinguisher selection, hot work permit controls, and emergency evacuation procedures for Welding Safety Awareness Training.",
+      "audience": "Fire Wardens, Welders & Hot Work Personnel"
+    },
+    {
+      "id": 126,
+      "itemNo": 153,
+      "slug": "window-cradle-bmu-tsp-safety-awareness-training",
+      "title": "Window Cradle / BMU / TSP Safety Awareness Training",
+      "category": "scaffolding",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "building maintenance unit window cradle facade temporary suspended platform cradle bmu tsp suspended platform facade",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Suspended access equipment checks, roof rig stability, secondary fall-arrest systems, and rescue readiness for Window Cradle / BMU / TSP Safety Awareness Training.",
+      "audience": "Facade Technicians & Rope Access Crew"
+    },
+    {
+      "id": 127,
+      "itemNo": 154,
+      "slug": "window-cradle-bmu-tsp-supervisor-safety-training",
+      "title": "Window Cradle / BMU / TSP Supervisor Safety Training",
+      "category": "scaffolding",
+      "role": "supervisor",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "building maintenance unit window cradle facade temporary suspended platform cradle bmu tsp suspended platform facade",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Leadership and supervisory control over erection/dismantling teams, stability verification, and permit sign-off for Window Cradle / BMU / TSP Supervisor Safety Training.",
+      "audience": "Scaffolding Supervisors & Foremen"
+    },
+    {
+      "id": 128,
+      "itemNo": 157,
+      "slug": "work-at-height-safety-awareness-training",
+      "title": "Work at Height Safety Awareness Training",
+      "category": "scaffolding",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Fall protection hierarchy, full-body harness inspection, anchor point selection, and safe assembly/access under Work at Height Safety Awareness Training.",
+      "audience": "Scaffolders & Elevated Work Technicians"
+    },
+    {
+      "id": 129,
+      "itemNo": 158,
+      "slug": "working-at-height-training",
+      "title": "Working at height training",
+      "category": "scaffolding",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Fall protection hierarchy, full-body harness inspection, anchor point selection, and safe assembly/access under Working at height training.",
+      "audience": "Scaffolders & Elevated Work Technicians"
+    },
+    {
+      "id": 130,
+      "itemNo": 160,
+      "slug": "workplace-safety-awareness-training",
+      "title": "Workplace Safety Awareness Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Workplace Safety Awareness Training.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 131,
+      "itemNo": 161,
+      "slug": "workplace-safety-training",
+      "title": "Workplace Safety Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Occupational Safety Trainings",
+      "subcat": "Occupational Safety",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Workplace Safety Training.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 132,
+      "itemNo": 170,
+      "slug": "backhoe-loaders-operator-safety-training",
+      "title": "Backhoe Loaders Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Heavy Equipment Machinery Or Earth Moving Machinery",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Heavy plant pre-start checks, trench/slope stability, blind-spot awareness, and safe earthworks execution for Backhoe Loaders Operator Safety Training.",
+      "audience": "Heavy Plant & Earthmoving Operators"
+    },
+    {
+      "id": 133,
+      "itemNo": 171,
+      "slug": "dumpers-operator-safety-training",
+      "title": "Dumpers Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Heavy Equipment Machinery Or Earth Moving Machinery",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Heavy plant pre-start checks, trench/slope stability, blind-spot awareness, and safe earthworks execution for Dumpers Operator Safety Training.",
+      "audience": "Heavy Plant & Earthmoving Operators"
+    },
+    {
+      "id": 134,
+      "itemNo": 172,
+      "slug": "earth-landfills-compactor-operator-safety-training",
+      "title": "Earth & Landfills Compactor Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Heavy Equipment Machinery Or Earth Moving Machinery",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Heavy plant pre-start checks, trench/slope stability, blind-spot awareness, and safe earthworks execution for Earth & Landfills Compactor Operator Safety Training.",
+      "audience": "Heavy Plant & Earthmoving Operators"
+    },
+    {
+      "id": 135,
+      "itemNo": 173,
+      "slug": "graders-operator-safety-training",
+      "title": "Graders Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Heavy Equipment Machinery Or Earth Moving Machinery",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Heavy plant pre-start checks, trench/slope stability, blind-spot awareness, and safe earthworks execution for Graders Operator Safety Training.",
+      "audience": "Heavy Plant & Earthmoving Operators"
+    },
+    {
+      "id": 136,
+      "itemNo": 174,
+      "slug": "hydraulic-excavators-operator-safety-training",
+      "title": "Hydraulic Excavators Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Heavy Equipment Machinery Or Earth Moving Machinery",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Heavy plant pre-start checks, trench/slope stability, blind-spot awareness, and safe earthworks execution for Hydraulic Excavators Operator Safety Training.",
+      "audience": "Heavy Plant & Earthmoving Operators"
+    },
+    {
+      "id": 137,
+      "itemNo": 175,
+      "slug": "piling-rig-operator-safety-training",
+      "title": "Piling rig Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Heavy Equipment Machinery Or Earth Moving Machinery",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Heavy plant pre-start checks, trench/slope stability, blind-spot awareness, and safe earthworks execution for Piling rig Operator Safety Training.",
+      "audience": "Heavy Plant & Earthmoving Operators"
+    },
+    {
+      "id": 138,
+      "itemNo": 176,
+      "slug": "pipe-layers-side-boom-operator-safety-training",
+      "title": "Pipe Layers / Side Boom Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Heavy Equipment Machinery Or Earth Moving Machinery",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Heavy plant pre-start checks, trench/slope stability, blind-spot awareness, and safe earthworks execution for Pipe Layers / Side Boom Operator Safety Training.",
+      "audience": "Heavy Plant & Earthmoving Operators"
+    },
+    {
+      "id": 139,
+      "itemNo": 177,
+      "slug": "pneumatic-tyre-roller-operator-training",
+      "title": "Pneumatic Tyre Roller Operator Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Heavy Equipment Machinery Or Earth Moving Machinery",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Heavy plant pre-start checks, trench/slope stability, blind-spot awareness, and safe earthworks execution for Pneumatic Tyre Roller Operator Training.",
+      "audience": "Heavy Plant & Earthmoving Operators"
+    },
+    {
+      "id": 140,
+      "itemNo": 178,
+      "slug": "rig-machine-operator-safety-training",
+      "title": "Rig Machine Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Heavy Equipment Machinery Or Earth Moving Machinery",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Heavy plant pre-start checks, trench/slope stability, blind-spot awareness, and safe earthworks execution for Rig Machine Operator Safety Training.",
+      "audience": "Heavy Plant & Earthmoving Operators"
+    },
+    {
+      "id": 141,
+      "itemNo": 179,
+      "slug": "road-scrubber-operator-safety-training",
+      "title": "Road Scrubber Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Heavy Equipment Machinery Or Earth Moving Machinery",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-operation safety checks, machine guarding, lockout/tagout (LOTO) awareness, and safe operating procedures for Road Scrubber Operator Safety Training.",
+      "audience": "Equipment & Machine Operators"
+    },
+    {
+      "id": 142,
+      "itemNo": 180,
+      "slug": "road-sweeping-machine-operator-safety-training",
+      "title": "Road Sweeping Machine Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Heavy Equipment Machinery Or Earth Moving Machinery",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-operation safety checks, machine guarding, lockout/tagout (LOTO) awareness, and safe operating procedures for Road Sweeping Machine Operator Safety Training.",
+      "audience": "Equipment & Machine Operators"
+    },
+    {
+      "id": 143,
+      "itemNo": 181,
+      "slug": "roller-tandem-rollers-operator-safety-training",
+      "title": "Roller / Tandem Rollers Operator safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Heavy Equipment Machinery Or Earth Moving Machinery",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Heavy plant pre-start checks, trench/slope stability, blind-spot awareness, and safe earthworks execution for Roller / Tandem Rollers Operator safety Training.",
+      "audience": "Heavy Plant & Earthmoving Operators"
+    },
+    {
+      "id": 144,
+      "itemNo": 182,
+      "slug": "scrapers-operator-safety-training",
+      "title": "Scrapers Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Heavy Equipment Machinery Or Earth Moving Machinery",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Heavy plant pre-start checks, trench/slope stability, blind-spot awareness, and safe earthworks execution for Scrapers Operator Safety Training.",
+      "audience": "Heavy Plant & Earthmoving Operators"
+    },
+    {
+      "id": 145,
+      "itemNo": 183,
+      "slug": "shoring-machine-operator-safety-training",
+      "title": "Shoring Machine Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Heavy Equipment Machinery Or Earth Moving Machinery",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Heavy plant pre-start checks, trench/slope stability, blind-spot awareness, and safe earthworks execution for Shoring Machine Operator Safety Training.",
+      "audience": "Heavy Plant & Earthmoving Operators"
+    },
+    {
+      "id": 146,
+      "itemNo": 184,
+      "slug": "skid-steer-loaders-operator-safety-training",
+      "title": "Skid Steer Loaders Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Heavy Equipment Machinery Or Earth Moving Machinery",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Heavy plant pre-start checks, trench/slope stability, blind-spot awareness, and safe earthworks execution for Skid Steer Loaders Operator Safety Training.",
+      "audience": "Heavy Plant & Earthmoving Operators"
+    },
+    {
+      "id": 147,
+      "itemNo": 185,
+      "slug": "tractor-dozers-bull-dozer-operator-safety-training",
+      "title": "Tractor - Dozers (Bull Dozer) Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Heavy Equipment Machinery Or Earth Moving Machinery",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Heavy plant pre-start checks, trench/slope stability, blind-spot awareness, and safe earthworks execution for Tractor - Dozers (Bull Dozer) Operator Safety Training.",
+      "audience": "Heavy Plant & Earthmoving Operators"
+    },
+    {
+      "id": 148,
+      "itemNo": 186,
+      "slug": "trenchers-operator-safety-training",
+      "title": "Trenchers Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Heavy Equipment Machinery Or Earth Moving Machinery",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Heavy plant pre-start checks, trench/slope stability, blind-spot awareness, and safe earthworks execution for Trenchers Operator Safety Training.",
+      "audience": "Heavy Plant & Earthmoving Operators"
+    },
+    {
+      "id": 149,
+      "itemNo": 187,
+      "slug": "wheel-loaders-shovel-operator-safety-training",
+      "title": "Wheel Loaders / Shovel Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Heavy Equipment Machinery Or Earth Moving Machinery",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Heavy plant pre-start checks, trench/slope stability, blind-spot awareness, and safe earthworks execution for Wheel Loaders / Shovel Operator Safety Training.",
+      "audience": "Heavy Plant & Earthmoving Operators"
+    },
+    {
+      "id": 150,
+      "itemNo": 188,
+      "slug": "electric-overhead-travelling-eot-crane-operator-training",
+      "title": "Electric Overhead Travelling (EOT) Crane Operator Training",
+      "category": "lifting",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Overhead Crane",
+      "aliases": "electric overhead travelling crane",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Safe operational controls, load chart interpretation, pre-start mechanical checks, and hazard mitigation for Electric Overhead Travelling (EOT) Crane Operator Training.",
+      "audience": "Crane & Hoist Operators"
+    },
+    {
+      "id": 151,
+      "itemNo": 189,
+      "slug": "gantry-crane-operator-safety-training",
+      "title": "Gantry Crane Operator Safety Training",
+      "category": "lifting",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Overhead Crane",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Safe operational controls, load chart interpretation, pre-start mechanical checks, and hazard mitigation for Gantry Crane Operator Safety Training.",
+      "audience": "Crane & Hoist Operators"
+    },
+    {
+      "id": 152,
+      "itemNo": 190,
+      "slug": "semi-gantry-crane-semi-goliath-crane-operator-safety-training",
+      "title": "Semi-Gantry Crane / Semi Goliath Crane Operator Safety Training",
+      "category": "lifting",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Overhead Crane",
+      "aliases": "gantry crane goliath crane",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Safe operational controls, load chart interpretation, pre-start mechanical checks, and hazard mitigation for Semi-Gantry Crane / Semi Goliath Crane Operator Safety Training.",
+      "audience": "Crane & Hoist Operators"
+    },
+    {
+      "id": 153,
+      "itemNo": 191,
+      "slug": "slewing-jib-jib-crane-operator-safety-training",
+      "title": "Slewing Jib / Jib Crane Operator Safety Training",
+      "category": "lifting",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Overhead Crane",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Safe operational controls, load chart interpretation, pre-start mechanical checks, and hazard mitigation for Slewing Jib / Jib Crane Operator Safety Training.",
+      "audience": "Crane & Hoist Operators"
+    },
+    {
+      "id": 154,
+      "itemNo": 192,
+      "slug": "monorail-cranes-operator-safety-training",
+      "title": "Monorail Cranes Operator Safety Training",
+      "category": "lifting",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Overhead Crane",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Safe operational controls, load chart interpretation, pre-start mechanical checks, and hazard mitigation for Monorail Cranes Operator Safety Training.",
+      "audience": "Crane & Hoist Operators"
+    },
+    {
+      "id": 155,
+      "itemNo": 193,
+      "slug": "overhead-crane-operator-safety-training",
+      "title": "Overhead Crane Operator Safety Training",
+      "category": "lifting",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Overhead Crane",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Safe operational controls, load chart interpretation, pre-start mechanical checks, and hazard mitigation for Overhead Crane Operator Safety Training.",
+      "audience": "Crane & Hoist Operators"
+    },
+    {
+      "id": 156,
+      "itemNo": 194,
+      "slug": "cradle-operator-safety-training",
+      "title": "Cradle Operator Safety Training",
+      "category": "scaffolding",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Window Cradle",
+      "aliases": "bmu tsp suspended platform facade",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Suspended access equipment checks, roof rig stability, secondary fall-arrest systems, and rescue readiness for Cradle Operator Safety Training.",
+      "audience": "Facade Technicians & Rope Access Crew"
+    },
+    {
+      "id": 157,
+      "itemNo": 195,
+      "slug": "building-maintenance-unit-bmu-operator-safety-training",
+      "title": "Building Maintenance Unit (BMU) Operator Safety Training",
+      "category": "scaffolding",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Window Cradle",
+      "aliases": "building maintenance unit window cradle facade",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Suspended access equipment checks, roof rig stability, secondary fall-arrest systems, and rescue readiness for Building Maintenance Unit (BMU) Operator Safety Training.",
+      "audience": "Facade Technicians & Rope Access Crew"
+    },
+    {
+      "id": 158,
+      "itemNo": 196,
+      "slug": "temporary-suspended-platform-tsp-operator-safety-training",
+      "title": "Temporary Suspended Platform (TSP) Operator Safety Training",
+      "category": "scaffolding",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Window Cradle",
+      "aliases": "temporary suspended platform cradle",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Suspended access equipment checks, roof rig stability, secondary fall-arrest systems, and rescue readiness for Temporary Suspended Platform (TSP) Operator Safety Training.",
+      "audience": "Facade Technicians & Rope Access Crew"
+    },
+    {
+      "id": 159,
+      "itemNo": 197,
+      "slug": "aerial-work-platform-operator-safety-training",
+      "title": "Aerial Work Platform Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Mobile Elevating",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Safe platform positioning, ground condition checks, outrigger deployment, emergency lowering, and fall restraint for Aerial Work Platform Operator Safety Training.",
+      "audience": "MEWP Operators & Maintenance Technicians"
+    },
+    {
+      "id": 160,
+      "itemNo": 198,
+      "slug": "boom-lift-operator-training",
+      "title": "Boom Lift Operator Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Mobile Elevating",
+      "aliases": "cherry picker mewp aerial platform",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Safe platform positioning, ground condition checks, outrigger deployment, emergency lowering, and fall restraint for Boom Lift Operator Training.",
+      "audience": "MEWP Operators & Maintenance Technicians"
+    },
+    {
+      "id": 161,
+      "itemNo": 199,
+      "slug": "cherry-picker-operator-safety-training",
+      "title": "Cherry Picker Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Mobile Elevating",
+      "aliases": "boom lift mewp aerial work platform",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Safe platform positioning, ground condition checks, outrigger deployment, emergency lowering, and fall restraint for Cherry Picker Operator Safety Training.",
+      "audience": "MEWP Operators & Maintenance Technicians"
+    },
+    {
+      "id": 162,
+      "itemNo": 200,
+      "slug": "man-lift-operator-safety-training",
+      "title": "Man Lift Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Work Platform (MEWP)",
+      "aliases": "manlift mewp aerial platform",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Safe platform positioning, ground condition checks, outrigger deployment, emergency lowering, and fall restraint for Man Lift Operator Safety Training.",
+      "audience": "MEWP Operators & Maintenance Technicians"
+    },
+    {
+      "id": 163,
+      "itemNo": 201,
+      "slug": "mobile-elevating-work-platform-mewp-operator-safety-training",
+      "title": "Mobile Elevating Work Platform (MEWP) Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Work Platform (MEWP)",
+      "aliases": "mobile elevating work platform manlift aerial lift elevating mewp manlift",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Safe platform positioning, ground condition checks, outrigger deployment, emergency lowering, and fall restraint for Mobile Elevating Work Platform (MEWP) Operator Safety Training.",
+      "audience": "MEWP Operators & Maintenance Technicians"
+    },
+    {
+      "id": 164,
+      "itemNo": 202,
+      "slug": "scissor-lift-operator-safety-training",
+      "title": "Scissor Lift Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Work Platform (MEWP)",
+      "aliases": "mewp manlift elevating platform",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Safe platform positioning, ground condition checks, outrigger deployment, emergency lowering, and fall restraint for Scissor Lift Operator Safety Training.",
+      "audience": "MEWP Operators & Maintenance Technicians"
+    },
+    {
+      "id": 165,
+      "itemNo": 203,
+      "slug": "spider-lift-operator-safety-training",
+      "title": "Spider Lift Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Work Platform (MEWP)",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Safe platform positioning, ground condition checks, outrigger deployment, emergency lowering, and fall restraint for Spider Lift Operator Safety Training.",
+      "audience": "MEWP Operators & Maintenance Technicians"
+    },
+    {
+      "id": 166,
+      "itemNo": 204,
+      "slug": "order-picker-operator-safety-training",
+      "title": "Order Picker Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Forklift",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-shift inspection, load center stability, narrow-aisle maneuvering, and pedestrian safety protocols for Order Picker Operator Safety Training.",
+      "audience": "Warehouse, Logistics & Material Handlers"
+    },
+    {
+      "id": 167,
+      "itemNo": 205,
+      "slug": "forklift-with-hydraulic-clamp-operator-safety-training",
+      "title": "Forklift with Hydraulic Clamp Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Forklift",
+      "aliases": "flt counterbalance reach truck stacker pallet",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-shift inspection, load center stability, narrow-aisle maneuvering, and pedestrian safety protocols for Forklift with Hydraulic Clamp Operator Safety Training.",
+      "audience": "Warehouse, Logistics & Material Handlers"
+    },
+    {
+      "id": 168,
+      "itemNo": 206,
+      "slug": "manual-powered-stacker-operator-safety-training",
+      "title": "Manual / Powered Stacker Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Forklift",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-shift inspection, load center stability, narrow-aisle maneuvering, and pedestrian safety protocols for Manual / Powered Stacker Operator Safety Training.",
+      "audience": "Warehouse, Logistics & Material Handlers"
+    },
+    {
+      "id": 169,
+      "itemNo": 207,
+      "slug": "reach-truck-operator-safety-training",
+      "title": "Reach Truck Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Forklift",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-shift inspection, load center stability, narrow-aisle maneuvering, and pedestrian safety protocols for Reach Truck Operator Safety Training.",
+      "audience": "Warehouse, Logistics & Material Handlers"
+    },
+    {
+      "id": 170,
+      "itemNo": 208,
+      "slug": "stacker-operator-safety-training",
+      "title": "Stacker Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Forklift",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-shift inspection, load center stability, narrow-aisle maneuvering, and pedestrian safety protocols for Stacker Operator Safety Training.",
+      "audience": "Warehouse, Logistics & Material Handlers"
+    },
+    {
+      "id": 171,
+      "itemNo": 209,
+      "slug": "telescopic-telehandler-operator-safety-training",
+      "title": "Telescopic/Telehandler Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Forklift",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-shift inspection, load center stability, narrow-aisle maneuvering, and pedestrian safety protocols for Telescopic/Telehandler Operator Safety Training.",
+      "audience": "Warehouse, Logistics & Material Handlers"
+    },
+    {
+      "id": 172,
+      "itemNo": 210,
+      "slug": "turret-truck-very-narrow-aisle-vna-operator-safety-training",
+      "title": "Turret Truck / Very Narrow Aisle (VNA) Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Forklift",
+      "aliases": "very narrow aisle turret truck forklift",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-shift inspection, load center stability, narrow-aisle maneuvering, and pedestrian safety protocols for Turret Truck / Very Narrow Aisle (VNA) Operator Safety Training.",
+      "audience": "Warehouse, Logistics & Material Handlers"
+    },
+    {
+      "id": 173,
+      "itemNo": 211,
+      "slug": "crawler-crane-operator-safety-training",
+      "title": "Crawler Crane Operator Safety Training",
+      "category": "lifting",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Cranes",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Safe operational controls, load chart interpretation, pre-start mechanical checks, and hazard mitigation for Crawler Crane Operator Safety Training.",
+      "audience": "Crane & Hoist Operators"
+    },
+    {
+      "id": 174,
+      "itemNo": 212,
+      "slug": "hiab-crane-operator-safety-training",
+      "title": "Hiab Crane Operator Safety Training",
+      "category": "lifting",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Cranes",
+      "aliases": "lorry loader truck mounted crane",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Safe operational controls, load chart interpretation, pre-start mechanical checks, and hazard mitigation for Hiab Crane Operator Safety Training.",
+      "audience": "Crane & Hoist Operators"
+    },
+    {
+      "id": 175,
+      "itemNo": 213,
+      "slug": "lorry-loader-operator-safety-training",
+      "title": "Lorry Loader Operator Safety Training",
+      "category": "lifting",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Cranes",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Safe operational controls, load chart interpretation, pre-start mechanical checks, and hazard mitigation for Lorry Loader Operator Safety Training.",
+      "audience": "Crane & Hoist Operators"
+    },
+    {
+      "id": 176,
+      "itemNo": 214,
+      "slug": "mobile-crane-operator-safety-training",
+      "title": "Mobile Crane Operator Safety Training",
+      "category": "lifting",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Cranes",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Safe operational controls, load chart interpretation, pre-start mechanical checks, and hazard mitigation for Mobile Crane Operator Safety Training.",
+      "audience": "Crane & Hoist Operators"
+    },
+    {
+      "id": 177,
+      "itemNo": 215,
+      "slug": "truck-mounted-crane-operator-safety-training",
+      "title": "Truck Mounted Crane Operator Safety Training",
+      "category": "lifting",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Cranes",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Safe operational controls, load chart interpretation, pre-start mechanical checks, and hazard mitigation for Truck Mounted Crane Operator Safety Training.",
+      "audience": "Crane & Hoist Operators"
+    },
+    {
+      "id": 178,
+      "itemNo": 216,
+      "slug": "tower-crane-operator-safety-training",
+      "title": "Tower Crane Operator Safety Training",
+      "category": "lifting",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Cranes",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Safe operational controls, load chart interpretation, pre-start mechanical checks, and hazard mitigation for Tower Crane Operator Safety Training.",
+      "audience": "Crane & Hoist Operators"
+    },
+    {
+      "id": 179,
+      "itemNo": 217,
+      "slug": "passenger-hoist-operator-safety-training",
+      "title": "Passenger Hoist Operator Safety Training",
+      "category": "lifting",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Const. Site Hoist",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Safe operational controls, load chart interpretation, pre-start mechanical checks, and hazard mitigation for Passenger Hoist Operator Safety Training.",
+      "audience": "Crane & Hoist Operators"
+    },
+    {
+      "id": 180,
+      "itemNo": 218,
+      "slug": "construction-site-hoist-operator-safety-training",
+      "title": "Construction Site Hoist Operator Safety Training",
+      "category": "lifting",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Const. Site Hoist",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Safe operational controls, load chart interpretation, pre-start mechanical checks, and hazard mitigation for Construction Site Hoist Operator Safety Training.",
+      "audience": "Crane & Hoist Operators"
+    },
+    {
+      "id": 181,
+      "itemNo": 219,
+      "slug": "material-hoist-operator-safety-training",
+      "title": "Material Hoist Operator Safety Training",
+      "category": "lifting",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Const. Site Hoist",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Safe operational controls, load chart interpretation, pre-start mechanical checks, and hazard mitigation for Material Hoist Operator Safety Training.",
+      "audience": "Crane & Hoist Operators"
+    },
+    {
+      "id": 182,
+      "itemNo": 220,
+      "slug": "electric-powered-pallet-trolley-operator-safety-training",
+      "title": "Electric/Powered Pallet Trolley Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Pallet Trolley",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-shift inspection, load center stability, narrow-aisle maneuvering, and pedestrian safety protocols for Electric/Powered Pallet Trolley Operator Safety Training.",
+      "audience": "Warehouse, Logistics & Material Handlers"
+    },
+    {
+      "id": 183,
+      "itemNo": 221,
+      "slug": "hand-pallet-operator-safety-training",
+      "title": "Hand Pallet Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Pallet Trolley",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-shift inspection, load center stability, narrow-aisle maneuvering, and pedestrian safety protocols for Hand Pallet Operator Safety Training.",
+      "audience": "Warehouse, Logistics & Material Handlers"
+    },
+    {
+      "id": 184,
+      "itemNo": 222,
+      "slug": "pallet-truck-operator-safety-training",
+      "title": "Pallet Truck Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Pallet Trolley",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-shift inspection, load center stability, narrow-aisle maneuvering, and pedestrian safety protocols for Pallet Truck Operator Safety Training.",
+      "audience": "Warehouse, Logistics & Material Handlers"
+    },
+    {
+      "id": 185,
+      "itemNo": 223,
+      "slug": "escalator-moving-walks-safety-training-safety-standard-requirements",
+      "title": "Escalator & Moving Walks - Safety Training (Safety & Standard Requirements)",
+      "category": "machinery",
+      "role": "awareness",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Escalator",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-operation safety checks, machine guarding, lockout/tagout (LOTO) awareness, and safe operating procedures for Escalator & Moving Walks - Safety Training (Safety & Standard Requirements).",
+      "audience": "Equipment & Machine Operators"
+    },
+    {
+      "id": 186,
+      "itemNo": 224,
+      "slug": "elevator-lift-operator-safety-training",
+      "title": "Elevator/ Lift Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Elevator",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-operation safety checks, machine guarding, lockout/tagout (LOTO) awareness, and safe operating procedures for Elevator/ Lift Operator Safety Training.",
+      "audience": "Equipment & Machine Operators"
+    },
+    {
+      "id": 187,
+      "itemNo": 225,
+      "slug": "mobile-concrete-pump-operator-safety-training",
+      "title": "Mobile Concrete Pump Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Concrete Pump",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-operation safety checks, machine guarding, lockout/tagout (LOTO) awareness, and safe operating procedures for Mobile Concrete Pump Operator Safety Training.",
+      "audience": "Equipment & Machine Operators"
+    },
+    {
+      "id": 188,
+      "itemNo": 226,
+      "slug": "placing-boom-operator-safety-training",
+      "title": "Placing Boom Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Concrete Pump",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-operation safety checks, machine guarding, lockout/tagout (LOTO) awareness, and safe operating procedures for Placing Boom Operator Safety Training.",
+      "audience": "Equipment & Machine Operators"
+    },
+    {
+      "id": 189,
+      "itemNo": 227,
+      "slug": "concrete-distribute-operator-training",
+      "title": "Concrete Distribute Operator Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Concrete Pump",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-operation safety checks, machine guarding, lockout/tagout (LOTO) awareness, and safe operating procedures for Concrete Distribute Operator Training.",
+      "audience": "Equipment & Machine Operators"
+    },
+    {
+      "id": 190,
+      "itemNo": 228,
+      "slug": "concrete-pump-operator-safety-training",
+      "title": "Concrete Pump Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Concrete Pump",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-operation safety checks, machine guarding, lockout/tagout (LOTO) awareness, and safe operating procedures for Concrete Pump Operator Safety Training.",
+      "audience": "Equipment & Machine Operators"
+    },
+    {
+      "id": 191,
+      "itemNo": 229,
+      "slug": "electric-hoist-operator-safety-training",
+      "title": "Electric Hoist Operator Safety Training",
+      "category": "lifting",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Hoist/Winch Machine",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Safe operational controls, load chart interpretation, pre-start mechanical checks, and hazard mitigation for Electric Hoist Operator Safety Training.",
+      "audience": "Crane & Hoist Operators"
+    },
+    {
+      "id": 192,
+      "itemNo": 230,
+      "slug": "manual-electric-winch-machine-operator-safety-training",
+      "title": "Manual/Electric Winch Machine Operator Safety Training",
+      "category": "lifting",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Hoist/Winch Machine",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Safe operational controls, load chart interpretation, pre-start mechanical checks, and hazard mitigation for Manual/Electric Winch Machine Operator Safety Training.",
+      "audience": "Crane & Hoist Operators"
+    },
+    {
+      "id": 193,
+      "itemNo": 231,
+      "slug": "lifting-accessories-operator-training",
+      "title": "Lifting Accessories Operator Training",
+      "category": "lifting",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Lifting Accessories",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Load weight estimation, sling angle calculations, pre-use gear inspection, and safe hitching techniques for Lifting Accessories Operator Training.",
+      "audience": "Riggers, Slingers & Lifting Crew"
+    },
+    {
+      "id": 194,
+      "itemNo": 232,
+      "slug": "lifting-accessories-safety-awareness-training",
+      "title": "Lifting Accessories Safety Awareness Training",
+      "category": "lifting",
+      "role": "awareness",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Lifting Accessories",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Load weight estimation, sling angle calculations, pre-use gear inspection, and safe hitching techniques for Lifting Accessories Safety Awareness Training.",
+      "audience": "Riggers, Slingers & Lifting Crew"
+    },
+    {
+      "id": 195,
+      "itemNo": 233,
+      "slug": "scaffolders-erector-safety-training",
+      "title": "Scaffolders Erector Safety Training",
+      "category": "scaffolding",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Scaffolding",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Fall protection hierarchy, full-body harness inspection, anchor point selection, and safe assembly/access under Scaffolders Erector Safety Training.",
+      "audience": "Scaffolders & Elevated Work Technicians"
+    },
+    {
+      "id": 196,
+      "itemNo": 234,
+      "slug": "mobile-scaffolders-erector-safety-training",
+      "title": "Mobile Scaffolders Erector Safety Training",
+      "category": "scaffolding",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Scaffolding",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Fall protection hierarchy, full-body harness inspection, anchor point selection, and safe assembly/access under Mobile Scaffolders Erector Safety Training.",
+      "audience": "Scaffolders & Elevated Work Technicians"
+    },
+    {
+      "id": 197,
+      "itemNo": 235,
+      "slug": "boiler-operator-safety-training",
+      "title": "Boiler Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Pressure Vessels",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-operation safety checks, machine guarding, lockout/tagout (LOTO) awareness, and safe operating procedures for Boiler Operator Safety Training.",
+      "audience": "Equipment & Machine Operators"
+    },
+    {
+      "id": 198,
+      "itemNo": 236,
+      "slug": "calorifier-operator-safety-training",
+      "title": "Calorifier Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Pressure Vessels",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-operation safety checks, machine guarding, lockout/tagout (LOTO) awareness, and safe operating procedures for Calorifier Operator Safety Training.",
+      "audience": "Equipment & Machine Operators"
+    },
+    {
+      "id": 199,
+      "itemNo": 237,
+      "slug": "air-compressor-operator-safety-training",
+      "title": "Air compressor Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Pressure Vessels",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-operation safety checks, machine guarding, lockout/tagout (LOTO) awareness, and safe operating procedures for Air compressor Operator Safety Training.",
+      "audience": "Equipment & Machine Operators"
+    },
+    {
+      "id": 200,
+      "itemNo": 238,
+      "slug": "vehicle-lift-carlift-operator-safety-training",
+      "title": "Vehicle Lift / Carlift operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Equipment Operator Safety Trainings & Accessories",
+      "subcat": "Vehicle Lift",
+      "aliases": "vehicle lift",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-operation safety checks, machine guarding, lockout/tagout (LOTO) awareness, and safe operating procedures for Vehicle Lift / Carlift operator Safety Training.",
+      "audience": "Equipment & Machine Operators"
+    },
+    {
+      "id": 201,
+      "itemNo": 239,
+      "slug": "angle-cutting-machine-operator-safety-training",
+      "title": "Angle Cutting Machine Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Technical & Machine Operator Safety Trainings",
+      "subcat": "Machinery",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-operation safety checks, machine guarding, lockout/tagout (LOTO) awareness, and safe operating procedures for Angle Cutting Machine Operator Safety Training.",
+      "audience": "Equipment & Machine Operators"
+    },
+    {
+      "id": 202,
+      "itemNo": 240,
+      "slug": "bar-bending-machine-operator-safety-training",
+      "title": "Bar Bending Machine Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Technical & Machine Operator Safety Trainings",
+      "subcat": "Machinery",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-operation safety checks, machine guarding, lockout/tagout (LOTO) awareness, and safe operating procedures for Bar Bending Machine Operator Safety Training.",
+      "audience": "Equipment & Machine Operators"
+    },
+    {
+      "id": 203,
+      "itemNo": 241,
+      "slug": "bar-cutting-machine-operator-safety-training",
+      "title": "Bar Cutting Machine Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Technical & Machine Operator Safety Trainings",
+      "subcat": "Machinery",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-operation safety checks, machine guarding, lockout/tagout (LOTO) awareness, and safe operating procedures for Bar Cutting Machine Operator Safety Training.",
+      "audience": "Equipment & Machine Operators"
+    },
+    {
+      "id": 204,
+      "itemNo": 242,
+      "slug": "bending-machine-operator-safety-training",
+      "title": "Bending Machine Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Technical & Machine Operator Safety Trainings",
+      "subcat": "Machinery",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-operation safety checks, machine guarding, lockout/tagout (LOTO) awareness, and safe operating procedures for Bending Machine Operator Safety Training.",
+      "audience": "Equipment & Machine Operators"
+    },
+    {
+      "id": 205,
+      "itemNo": 243,
+      "slug": "block-cutting-machine-operator-safety-training",
+      "title": "Block Cutting Machine Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Technical & Machine Operator Safety Trainings",
+      "subcat": "Machinery",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-operation safety checks, machine guarding, lockout/tagout (LOTO) awareness, and safe operating procedures for Block Cutting Machine Operator Safety Training.",
+      "audience": "Equipment & Machine Operators"
+    },
+    {
+      "id": 206,
+      "itemNo": 244,
+      "slug": "concrete-cutting-machine-operator-safety-training",
+      "title": "Concrete Cutting Machine Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Technical & Machine Operator Safety Trainings",
+      "subcat": "Machinery",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-operation safety checks, machine guarding, lockout/tagout (LOTO) awareness, and safe operating procedures for Concrete Cutting Machine Operator Safety Training.",
+      "audience": "Equipment & Machine Operators"
+    },
+    {
+      "id": 207,
+      "itemNo": 245,
+      "slug": "concrete-mixer-operator-safety-training",
+      "title": "Concrete Mixer Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Technical & Machine Operator Safety Trainings",
+      "subcat": "Machinery",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-operation safety checks, machine guarding, lockout/tagout (LOTO) awareness, and safe operating procedures for Concrete Mixer Operator Safety Training.",
+      "audience": "Equipment & Machine Operators"
+    },
+    {
+      "id": 208,
+      "itemNo": 246,
+      "slug": "cutting-machine-operator-safety-training",
+      "title": "Cutting Machine Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Technical & Machine Operator Safety Trainings",
+      "subcat": "Machinery",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-operation safety checks, machine guarding, lockout/tagout (LOTO) awareness, and safe operating procedures for Cutting Machine Operator Safety Training.",
+      "audience": "Equipment & Machine Operators"
+    },
+    {
+      "id": 209,
+      "itemNo": 247,
+      "slug": "drilling-machine-operator-safety-training",
+      "title": "Drilling Machine Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Technical & Machine Operator Safety Trainings",
+      "subcat": "Machinery",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-operation safety checks, machine guarding, lockout/tagout (LOTO) awareness, and safe operating procedures for Drilling Machine Operator Safety Training.",
+      "audience": "Equipment & Machine Operators"
+    },
+    {
+      "id": 210,
+      "itemNo": 248,
+      "slug": "coring-machine-operator-safety-training",
+      "title": "Coring Machine Operator Safety Training",
+      "category": "machinery",
+      "role": "awareness",
+      "section": "Technical & Machine Operator Safety Trainings",
+      "subcat": "Machinery",
+      "aliases": "operator",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-operation safety checks, machine guarding, lockout/tagout (LOTO) awareness, and safe operating procedures for Coring Machine Operator Safety Training.",
+      "audience": "Equipment & Machine Operators"
+    },
+    {
+      "id": 211,
+      "itemNo": 249,
+      "slug": "floor-cutting-machine-operator-safety-training",
+      "title": "Floor Cutting Machine Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Technical & Machine Operator Safety Trainings",
+      "subcat": "Machinery",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-operation safety checks, machine guarding, lockout/tagout (LOTO) awareness, and safe operating procedures for Floor Cutting Machine Operator Safety Training.",
+      "audience": "Equipment & Machine Operators"
+    },
+    {
+      "id": 212,
+      "itemNo": 250,
+      "slug": "grinding-machine-safety-training",
+      "title": "Grinding Machine Safety Training",
+      "category": "machinery",
+      "role": "awareness",
+      "section": "Technical & Machine Operator Safety Trainings",
+      "subcat": "Machinery",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-operation safety checks, machine guarding, lockout/tagout (LOTO) awareness, and safe operating procedures for Grinding Machine Safety Training.",
+      "audience": "Equipment & Machine Operators"
+    },
+    {
+      "id": 213,
+      "itemNo": 251,
+      "slug": "glass-cutting-machine-safety-training",
+      "title": "Glass Cutting Machine Safety Training",
+      "category": "machinery",
+      "role": "awareness",
+      "section": "Technical & Machine Operator Safety Trainings",
+      "subcat": "Machinery",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-operation safety checks, machine guarding, lockout/tagout (LOTO) awareness, and safe operating procedures for Glass Cutting Machine Safety Training.",
+      "audience": "Equipment & Machine Operators"
+    },
+    {
+      "id": 214,
+      "itemNo": 252,
+      "slug": "pneumatic-tools-operator-safety-training",
+      "title": "Pneumatic Tools Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Technical & Machine Operator Safety Trainings",
+      "subcat": "Machinery",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-operation safety checks, machine guarding, lockout/tagout (LOTO) awareness, and safe operating procedures for Pneumatic Tools Operator Safety Training.",
+      "audience": "Equipment & Machine Operators"
+    },
+    {
+      "id": 215,
+      "itemNo": 253,
+      "slug": "saw-machine-operator-safety-training",
+      "title": "Saw Machine Operator Safety training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Technical & Machine Operator Safety Trainings",
+      "subcat": "Machinery",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-operation safety checks, machine guarding, lockout/tagout (LOTO) awareness, and safe operating procedures for Saw Machine Operator Safety training.",
+      "audience": "Equipment & Machine Operators"
+    },
+    {
+      "id": 216,
+      "itemNo": 254,
+      "slug": "slitting-machine-operator-safety-training",
+      "title": "Slitting Machine Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Technical & Machine Operator Safety Trainings",
+      "subcat": "Machinery",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-operation safety checks, machine guarding, lockout/tagout (LOTO) awareness, and safe operating procedures for Slitting Machine Operator Safety Training.",
+      "audience": "Equipment & Machine Operators"
+    },
+    {
+      "id": 217,
+      "itemNo": 255,
+      "slug": "tensioner-machine-operator-safety-training",
+      "title": "Tensioner Machine Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Technical & Machine Operator Safety Trainings",
+      "subcat": "Machinery",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-operation safety checks, machine guarding, lockout/tagout (LOTO) awareness, and safe operating procedures for Tensioner Machine Operator Safety Training.",
+      "audience": "Equipment & Machine Operators"
+    },
+    {
+      "id": 218,
+      "itemNo": 256,
+      "slug": "wood-cutting-machine-operator-safety-training",
+      "title": "Wood Cutting Machine Operator safety training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Technical & Machine Operator Safety Trainings",
+      "subcat": "Machinery",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-operation safety checks, machine guarding, lockout/tagout (LOTO) awareness, and safe operating procedures for Wood Cutting Machine Operator safety training.",
+      "audience": "Equipment & Machine Operators"
+    },
+    {
+      "id": 219,
+      "itemNo": 257,
+      "slug": "welding-and-cutting-operator-safety-training",
+      "title": "Welding and Cutting Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Technical & Machine Operator Safety Trainings",
+      "subcat": "Machinery",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-operation safety checks, machine guarding, lockout/tagout (LOTO) awareness, and safe operating procedures for Welding and Cutting Operator Safety Training.",
+      "audience": "Equipment & Machine Operators"
+    },
+    {
+      "id": 220,
+      "itemNo": 258,
+      "slug": "gas-cutting-safety-training",
+      "title": "Gas Cutting Safety Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Technical & Machine Operator Safety Trainings",
+      "subcat": "Technical",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Gas Cutting Safety Training.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 221,
+      "itemNo": 259,
+      "slug": "dewatering-pump-operator-safety-training",
+      "title": "Dewatering Pump Operator safety training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Technical & Machine Operator Safety Trainings",
+      "subcat": "Technical",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-operation safety checks, machine guarding, lockout/tagout (LOTO) awareness, and safe operating procedures for Dewatering Pump Operator safety training.",
+      "audience": "Equipment & Machine Operators"
+    },
+    {
+      "id": 222,
+      "itemNo": 260,
+      "slug": "hydro-test-operator-safety-training",
+      "title": "Hydro Test Operator Safety Training",
+      "category": "safety",
+      "role": "operator",
+      "section": "Technical & Machine Operator Safety Trainings",
+      "subcat": "Technical",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under Hydro Test Operator Safety Training.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 223,
+      "itemNo": 261,
+      "slug": "jack-hammer-operator-safety-training",
+      "title": "Jack Hammer Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Technical & Machine Operator Safety Trainings",
+      "subcat": "Technical",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-operation safety checks, machine guarding, lockout/tagout (LOTO) awareness, and safe operating procedures for Jack Hammer Operator Safety Training.",
+      "audience": "Equipment & Machine Operators"
+    },
+    {
+      "id": 224,
+      "itemNo": 262,
+      "slug": "oil-filtration-machine-operator-safety-training",
+      "title": "Oil Filtration Machine operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Technical & Machine Operator Safety Trainings",
+      "subcat": "Technical",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-operation safety checks, machine guarding, lockout/tagout (LOTO) awareness, and safe operating procedures for Oil Filtration Machine operator Safety Training.",
+      "audience": "Equipment & Machine Operators"
+    },
+    {
+      "id": 225,
+      "itemNo": 263,
+      "slug": "paint-booth-operator-safety-training",
+      "title": "Paint booth Operator Safety Training",
+      "category": "machinery",
+      "role": "operator",
+      "section": "Technical & Machine Operator Safety Trainings",
+      "subcat": "Technical",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Pre-operation safety checks, machine guarding, lockout/tagout (LOTO) awareness, and safe operating procedures for Paint booth Operator Safety Training.",
+      "audience": "Equipment & Machine Operators"
+    },
+    {
+      "id": 226,
+      "itemNo": 264,
+      "slug": "pat-testing-training",
+      "title": "PAT Testing Training",
+      "category": "safety",
+      "role": "awareness",
+      "section": "Technical & Machine Operator Safety Trainings",
+      "subcat": "Technical",
+      "aliases": "portable appliance testing electrical",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Practical hazard recognition, regulatory compliance, safe work practices, and incident prevention under PAT Testing Training.",
+      "audience": "Site Workforce, Supervisors & HSE Personnel"
+    },
+    {
+      "id": 227,
+      "itemNo": 265,
+      "slug": "rope-access-safety-training",
+      "title": "Rope Access Safety Training",
+      "category": "scaffolding",
+      "role": "awareness",
+      "section": "Technical & Machine Operator Safety Trainings",
+      "subcat": "Technical",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Suspended access equipment checks, roof rig stability, secondary fall-arrest systems, and rescue readiness for Rope Access Safety Training.",
+      "audience": "Facade Technicians & Rope Access Crew"
+    },
+    {
+      "id": 228,
+      "itemNo": 266,
+      "slug": "suspension-platform-work-safety-training",
+      "title": "Suspension Platform Work Safety training",
+      "category": "scaffolding",
+      "role": "awareness",
+      "section": "Technical & Machine Operator Safety Trainings",
+      "subcat": "Technical",
+      "aliases": "",
+      "delivery": [
+        "center",
+        "onsite"
+      ],
+      "desc": "Suspended access equipment checks, roof rig stability, secondary fall-arrest systems, and rescue readiness for Suspension Platform Work Safety training.",
+      "audience": "Facade Technicians & Rope Access Crew"
+    }
+  ]
+}
